@@ -1,0 +1,8 @@
+﻿  MyForm.cpp
+C:\Users\Ann\source\repos\Project12\Project12\MyForm.h(74,4): warning C4150: deletion of pointer to incomplete type 'Budget'; no destructor called
+  (compiling source file 'MyForm.cpp')
+      C:\Users\Ann\source\repos\Project12\Project12\MyForm.h(6,7):
+      see declaration of 'Budget'
+  
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Project12.vcxproj -> C:\Users\Ann\source\repos\Project12\x64\Debug\Project12.exe

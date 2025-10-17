@@ -1,0 +1,3 @@
+C:\Users\Ann\source\repos\Project12\Project12\x64\Debug\Project12.vcxproj.AssemblyReference.cache
+C:\Users\Ann\source\repos\Project12\Project12\x64\Debug\Project12.MyForm.resources
+C:\Users\Ann\source\repos\Project12\Project12\x64\Debug\Project12.vcxproj.GenerateResource.cache
